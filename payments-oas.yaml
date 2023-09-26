@@ -27,7 +27,7 @@ paths:
         - name: x-correlation-id
           in: header
           type: string
-          maxLength: 50
+          maxLength: 60
         - x-amf-mediaType: application/json
           in: body
           name: generated
