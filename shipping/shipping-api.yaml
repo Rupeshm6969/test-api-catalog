@@ -3,7 +3,7 @@ openapi: 3.0.0
 info:
   title: Shipping API
   description: This is a shipping API that consolidates requests between all the shipping vendors - UPS, FedEx and USPS.
-  version: v1
+  version: v2
 paths:  
   "/track":
     servers:
