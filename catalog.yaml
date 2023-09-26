@@ -15,5 +15,6 @@ projects:
       - logistics
       - commerce
       - store
+      - Market
     documentation:
       Home: shipping/home.md
